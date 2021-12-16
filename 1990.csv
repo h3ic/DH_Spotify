@@ -1,0 +1,101 @@
+id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+6e40mgJiCid5HRAGrbpGA6,I Want It That Way,Backstreet Boys,['Backstreet Boys'],0.689,0.702,6,-5.642,0,0.216,0.0,0.159,0.484,99.031,213600,4
+3APayTEWiUl9Ssep4BOXR2,Torn,Natalie Imbruglia,['Natalie Imbruglia'],0.558,0.928,5,-3.04,1,0.0746,5.44e-05,0.696,0.6,96.313,244813,4
+1Je1IMUlBXcx1Fz0WE7oPT,Wannabe,Spice Girls,['Spice Girls'],0.768,0.864,11,-6.145,1,0.101,0.0,0.162,0.891,110.008,173027,4
+1Eb90nmqTrxylKFhcUzW8P,(Everything I Do) I Do It For You,Bryan Adams,['Bryan Adams'],0.533,0.36,1,-12.633,1,0.0805,1.03e-05,0.0631,0.299,131.229,393640,4
+2CT3r93YuSHtm57mjxvjhH,Wonderwall,Oasis,['Oasis'],0.409,0.892,2,-4.373,1,0.000807,0.0,0.207,0.651,174.426,258613,4
+6kvoHl80mfCVTv7XnZkjQn,"It Must Have Been Love - From the Film ""Pretty Woman""",Roxette,['Roxette'],0.52,0.652,5,-6.655,1,0.34,5.49e-05,0.256,0.722,80.609,258787,4
+4pZ2aqPV39Gw3FuHrWKWnM,Kiss Me,Sixpence None The Richer,['Sixpence None The Richer'],0.529,0.741,3,-5.661,1,0.116,1.23e-06,0.0736,0.455,100.004,205240,4
+7lQWRAjyhTpCWFC0jmclT4,Gangsta's Paradise,Coolio,"['Coolio', 'L.V.']",0.647,0.514,8,-10.05,1,0.0655,0.0,0.398,0.387,79.974,240693,4
+1f3yAtsJtY87CTmM8RLnxf,Smells Like Teen Spirit,Nirvana,['Nirvana'],0.502,0.912,1,-4.556,1,2.55e-05,0.000173,0.106,0.72,116.761,301920,4
+2goLsvvODILDzeeiT4dAoR,Believe,Cher,['Cher'],0.652,0.917,6,-6.72,1,0.0082,0.0,0.0509,0.459,132.975,239027,4
+3FteycP8CaXS1MhjcXekVT,Stop,Spice Girls,['Spice Girls'],0.722,0.845,2,-4.446,0,0.287,0.0,0.0561,0.965,130.13,204754,4
+6sxptembJVty4sNtcPMAVz,Man! I Feel Like A Woman!,Shania Twain,['Shania Twain'],0.657,0.639,10,-7.527,1,0.581,0.0,0.278,0.674,124.882,234493,4
+0lnxrQAd9ZxbhBBe7d8FO8,MMMBop,Hanson,['Hanson'],0.683,0.937,9,-6.335,1,0.00481,0.0046,0.07,0.619,104.872,268653,4
+7p9dd71JR2ucoAuO1Sy0VZ,When You're Gone,Bryan Adams,"['Bryan Adams', 'Melanie C']",0.546,0.931,0,-6.344,1,0.000299,2.92e-05,0.11,0.643,125.495,204893,4
+4VZDv8sASBS8UruUBGTFdk,Hold On,Wilson Phillips,['Wilson Phillips'],0.679,0.657,5,-9.897,1,0.4,0.0,0.0497,0.546,97.8,266867,4
+24fQpRwKFkC3Fe8QtvvrNw,Back for Good - Radio Mix,Take That,['Take That'],0.601,0.504,5,-9.761,1,0.31,0.0,0.137,0.564,78.986,242267,4
+0q90594hk25yo0xZmBTqCd,Don't Let the Sun Go Down on Me,George Michael,"['George Michael', 'Elton John']",0.432,0.551,0,-8.096,1,0.501,1.77e-06,0.472,0.253,136.465,346960,4
+2AlVWg58iy4Cx6KqD0XYu2,Picture Of You,Boyzone,['Boyzone'],0.768,0.919,0,-6.066,1,0.109,1.14e-06,0.366,0.862,116.649,206040,4
+1d6KS9GH06JAd19uiBy9IE,Ironic - 2015 Remaster,Alanis Morissette,['Alanis Morissette'],0.408,0.582,11,-8.305,1,0.218,0.0,0.159,0.365,114.926,230000,5
+60Pwcnt2y9ML9VP4gwrcxm,Walking in Memphis,Cher,['Cher'],0.696,0.679,2,-7.363,1,0.587,0.0,0.165,0.527,128.982,235493,4
+15tHagkk8z306XkyOHqiip,"I'll Be There for You - Theme From ""Friends""",The Rembrandts,['The Rembrandts'],0.32,0.917,9,-5.903,1,0.0717,0.0,0.169,0.715,190.757,188360,4
+4I7DV3MIgxJGlObiy9s6nx,That Don't Impress Me Much,Shania Twain,['Shania Twain'],0.743,0.873,10,-4.943,0,0.14,0.0,0.142,0.965,125.005,238707,5
+3tyTt5pEWblt96j1HsXiV5,Freedom! '90 - Remastered,George Michael,['George Michael'],0.677,0.852,5,-10.856,1,0.225,3.95e-05,0.0595,0.93,91.691,390862,4
+3Mmt6Xk0H6VR92PEp6x3hP,To Be With You - 2010 Remastered Version,Mr. Big,['Mr. Big'],0.688,0.375,4,-9.601,1,0.286,0.0,0.133,0.45,83.635,210480,4
+0gcjc7Vt5xtcfmJgf6g2IO,When You Say Nothing At All,Ronan Keating,['Ronan Keating'],0.461,0.448,7,-10.665,1,0.161,1.18e-06,0.0811,0.418,173.86,256827,4
+0TxXEbxn52XsuAhxb6VFZw,This Kiss,Faith Hill,['Faith Hill'],0.48,0.832,11,-5.663,1,0.137,0.0,0.354,0.648,186.875,194907,4
+1wb4P4F0sxAQ2KXrRvsx6n,You're Still The One,Shania Twain,['Shania Twain'],0.585,0.494,3,-8.751,1,0.363,0.0,0.0886,0.634,133.822,212200,4
+4CcSw8wQAHYf4XNckayPoc,Walking on Broken Glass,Annie Lennox,['Annie Lennox'],0.749,0.562,0,-8.45,1,0.215,1.1e-06,0.105,0.807,115.008,253296,4
+6aXY8SXfIcDU1FTNqo5fHz,Fading Like A Flower (Every Time You Leave),Roxette,['Roxette'],0.609,0.668,0,-5.738,1,0.195,0.0,0.219,0.319,105.419,230680,4
+1F93GMRPvmWpVP970SzjpH,The Shoop Shoop Song (It's In His Kiss),Cher,['Cher'],0.678,0.61,0,-10.509,1,0.467,0.0,0.397,0.919,117.04,170000,4
+1di1BEgJYzPvXUuinsYJGP,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,['Backstreet Boys'],0.731,0.853,10,-4.219,0,0.0352,0.0,0.268,0.605,108.016,225360,4
+1GrikfH0jDejDvrxo84n4P,Together Again,Janet Jackson,['Janet Jackson'],0.873,0.593,7,-8.942,1,0.078,0.00697,0.104,0.495,123.091,301200,4
+7A0apkTSTvMbSI7yplcmlh,Come on over Baby (All I Want Is You) - Radio Version,Christina Aguilera,['Christina Aguilera'],0.829,0.915,8,-3.205,1,0.226,1.25e-05,0.246,0.779,118.903,203333,4
+0hrBpAOgrt8RXigk83LLNE,The Sign,Ace of Base,['Ace of Base'],0.808,0.786,4,-6.897,0,0.00928,0.0701,0.0574,0.899,96.987,191240,4
+1M2nd8jNUkkwrc1dgBPTJz,Angels,Robbie Williams,['Robbie Williams'],0.429,0.594,4,-6.251,1,0.156,4.95e-06,0.1,0.236,150.22,265000,4
+7CBy5lwwNECPDjsksQrxxB,Joyride,Roxette,['Roxette'],0.631,0.77,2,-5.315,1,0.0457,0.0,0.481,0.734,102.348,263093,4
+1UI0l2L66HJ9AtoEOlHzv4,Sometimes,Britney Spears,['Britney Spears'],0.745,0.742,10,-5.693,1,0.42,0.0,0.102,0.806,95.996,245067,4
+013AWvizllIUEC2FOBzOnh,Truly Madly Deeply,Savage Garden,['Savage Garden'],0.555,0.698,0,-8.874,1,0.403,0.0,0.0851,0.816,168.12,277267,4
+2DZ0asZUifcas2aTEi3SrZ,"Love Is All Around - From ""Four Weddings And A Funeral""",Wet Wet Wet,['Wet Wet Wet'],0.428,0.542,10,-12.381,1,0.256,0.0,0.169,0.566,169.896,237893,4
+4n8iSiSWRdaSeSpJMbdk9O,Jessie,Joshua Kadison,['Joshua Kadison'],0.648,0.464,7,-11.592,1,0.426,4.93e-06,0.262,0.512,142.924,319027,4
+3UpS7kBnkVQYG13pDDFTC4,As Long as You Love Me,Backstreet Boys,['Backstreet Boys'],0.804,0.801,0,-4.892,1,0.275,3.29e-05,0.215,0.826,98.12,221107,4
+6xkryXuiZU360Lngd4sx13,Fantasy,Mariah Carey,['Mariah Carey'],0.669,0.727,7,-7.588,1,0.139,0.0,0.123,0.807,102.322,243493,4
+2Cy7QY8HPLk925AyNAt6OG,Black or White - Single Version,Michael Jackson,['Michael Jackson'],0.741,0.894,4,-3.826,1,0.0814,0.0527,0.089,0.96,114.879,202853,4
+4UQLQJu3DNvVkMVglwElU2,The King of Wishful Thinking,Go West,['Go West'],0.669,0.868,0,-7.377,1,0.033,0.0,0.0991,0.913,107.885,241760,4
+2le9fblYnfoLr9dkZIsJUa,"Baby, I Love Your Way",Big Mountain,"['Big Mountain', 'Tom Lord-Alge']",0.651,0.747,1,-7.269,0,0.0528,0.0,0.207,0.776,147.518,249520,4
+3MjUtNVVq3C8Fn0MP3zhXa,...Baby One More Time,Britney Spears,['Britney Spears'],0.759,0.699,0,-5.745,0,0.202,0.000131,0.443,0.907,92.96,211067,4
+36AWdhZIGLUTkWpJDhe7va,2 Become 1,Spice Girls,['Spice Girls'],0.646,0.665,6,-7.878,1,0.326,1.97e-05,0.238,0.7,143.966,241027,4
+391CwgcBxvUHmEKda2b5In,I'd Do Anything For Love (But I Won't Do That) - Single Edit,Meat Loaf,['Meat Loaf'],0.419,0.672,2,-6.353,1,0.623,0.0,0.412,0.304,105.212,316467,4
+1OFKUn2VLafrHj7ybnap0Q,Only Wanna Be with You,Hootie & The Blowfish,['Hootie & The Blowfish'],0.49,0.873,6,-5.861,1,0.107,5.19e-06,0.118,0.513,103.272,229587,4
+1NOeZ7ZIVKMebuza26rofd,"Because You Loved Me (Theme from ""Up Close and Personal"")",Céline Dion,['Céline Dion'],0.614,0.466,1,-9.881,1,0.314,0.0,0.099,0.178,119.916,273667,4
+6vGW3d8X48CBaLdU0PQbey,Moving on Up,M People,['M People'],0.899,0.857,0,-6.128,0,0.0499,0.0299,0.112,0.961,125.072,215533,4
+0LXosXV9ZvmzIpzUsOMuLv,You'll Be In My Heart,Phil Collins,['Phil Collins'],0.568,0.748,8,-6.523,1,0.0572,4.48e-06,0.0932,0.615,96.699,258400,4
+6SLLoLPDg6XALqgCs9rBX3,No Matter What,Boyzone,['Boyzone'],0.701,0.416,7,-9.429,1,0.165,0.0,0.13,0.555,92.715,274267,4
+4AOuWMwBYlZ96c07ye2w27,Sweetest Thing - The Single Mix,U2,['U2'],0.534,0.605,0,-7.096,1,0.0941,4.35e-05,0.198,0.558,142.24,183160,4
+3GpdNg7Krt9vjc6tgDoKe1,Breakfast At Tiffany's,Deep Blue Something,['Deep Blue Something'],0.624,0.826,2,-5.534,1,0.113,0.0,0.0938,0.526,110.368,257187,4
+1PEqh7awkpuepLBSq8ZwqD,I Love You Always Forever,Donna Lewis,['Donna Lewis'],0.744,0.453,5,-11.977,1,0.627,0.421,0.0898,0.122,103.773,239960,4
+2fXNIyzcOjc5Otknzsfi2O,"I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria StuLive at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992dios, New York - March 1992",Mariah Carey,"['Mariah Carey', 'Trey Lorenz']",0.216,0.544,5,-8.132,1,0.663,0.0,0.882,0.301,75.017,264240,4
+3IDsegNBHC4pjGCOMTQYlU,"Baby, Baby",Amy Grant,['Amy Grant'],0.702,0.901,1,-4.45,1,0.426,0.00153,0.0368,0.919,97.862,236973,4
+144JMbvbR5txNzoZ112wo4,Strong Enough,Cher,['Cher'],0.593,0.923,0,-6.19,1,0.0495,0.0,0.29,0.587,124.862,224000,4
+5vKkaZHPzuqQheytfKuXzp,"Circle of Life - From ""The Lion King""/Soundtrack Version",Elton John,['Elton John'],0.3,0.387,10,-15.321,1,0.264,0.215,0.106,0.137,160.587,291600,4
+0HKD13PLq2WicViBBhSrOl,Out Of Reach,Gabrielle,['Gabrielle'],0.51,0.48,11,-6.567,1,0.503,0.0,0.106,0.496,182.862,196987,4
+1EflNuGtIko1YjBAmbZAQr,Relight My Fire (feat. Lulu),Take That,"['Take That', 'Lulu']",0.653,0.943,9,-7.315,1,0.0379,0.0,0.0989,0.925,122.586,251760,4
+0U9TKK9GYryei6Vn45TEdH,Over My Shoulder,Mike & The Mechanics,['Mike & The Mechanics'],0.631,0.826,5,-7.856,0,0.126,0.0,0.0648,0.82,92.353,217200,4
+3v0uXfyMEZ1lGvBOv1Y4ar,Bring It All Back,S Club 7,['S Club 7'],0.679,0.903,4,-4.914,1,0.333,0.0,0.372,0.872,108.114,213600,4
+4f6jZRNyjZQ8ltv1txgZUG,Can You Feel the Love Tonight,Elton John,['Elton John'],0.309,0.275,10,-12.612,1,0.867,0.000408,0.11,0.161,123.865,241280,4
+0SLtqCrXBRrnkxSOMA3X4W,Let Me Entertain You,Robbie Williams,['Robbie Williams'],0.478,0.965,10,-5.022,1,0.000169,0.00251,0.0854,0.347,125.152,262000,4
+2aBxt229cbLDOvtL7Xbb9x,Always Be My Baby,Mariah Carey,['Mariah Carey'],0.65,0.531,4,-8.335,1,0.457,0.0,0.249,0.487,78.946,258133,4
+6kQz6t5z1FK4uohPh8Kd73,Let's Get Loud,Jennifer Lopez,['Jennifer Lopez'],0.82,0.937,5,-4.81,0,0.139,7.51e-05,0.325,0.922,131.006,238227,4
+3ZpQiJ78LKINrW9SQTgbXd,All I Wanna Do,Sheryl Crow,['Sheryl Crow'],0.82,0.528,9,-11.179,1,0.111,0.0186,0.257,0.931,120.091,272107,4
+7fLkHVJAJLENmSvhrEHZxV,A Whole New World (Aladdin's Theme),Peabo Bryson,"['Peabo Bryson', 'Regina Belle']",0.538,0.189,2,-17.13,1,0.636,0.0,0.174,0.161,107.829,250400,4
+6CU0zWIWVTEnmWpSjVHM93,You Gotta Be,Des'ree,"[""Des'ree""]",0.623,0.669,0,-9.985,1,0.211,3.2e-06,0.111,0.492,94.028,245200,4
+4c6vZqYHFur11FbWATIJ9P,There She Goes,The La's,"[""The La's""]",0.533,0.761,7,-10.632,1,0.013,0.829,0.207,0.917,122.777,162187,4
+0P6CPJrNJ1Zt755CQTWg3S,C'est La Vie,B*Witched,['B*Witched'],0.705,0.936,7,-5.109,1,0.0978,0.000124,0.0506,0.939,109.004,173693,4
+6nozDLxeL0TE4MS9GqYU1v,I Knew I Loved You,Savage Garden,['Savage Garden'],0.61,0.497,9,-9.88,1,0.32,6.11e-05,0.0884,0.739,85.031,250360,4
+0Uqs7ilt5kGX9NzFDWTBrP,Quit Playing Games (With My Heart),Backstreet Boys,['Backstreet Boys'],0.8,0.825,11,-6.552,0,0.0559,2.18e-06,0.141,0.903,100.035,232667,4
+7ziHnshbknkpFLDW5yGBjO,Never Ever,All Saints,"['All Saints', 'Unknown']",0.738,0.541,1,-5.485,1,0.559,0.0,0.0492,0.309,134.187,387573,4
+36O7qmyKLHpUY6WdWh8M5g,Will You Be There - Single Version,Michael Jackson,['Michael Jackson'],0.413,0.626,6,-6.504,0,0.511,0.000338,0.0845,0.435,82.971,220387,4
+4rV3AYCf4BBBCkIpyLPwUP,Dreams,Gabrielle,['Gabrielle'],0.751,0.467,9,-13.652,1,0.173,0.0,0.217,0.568,98.783,222773,4
+7jIFGkTBIK1UwWaEXMW2Nh,Life Is A Highway,Tom Cochrane,['Tom Cochrane'],0.683,0.897,5,-3.455,1,0.0457,5.18e-06,0.286,0.752,103.051,266080,4
+4eHbdreAnSOrDDsFfc4Fpm,I Will Always Love You,Whitney Houston,['Whitney Houston'],0.332,0.214,4,-12.518,1,0.845,5.62e-06,0.0839,0.11,67.531,271093,4
+4WUnM4KNZ0kjp0CUeoyOnS,I Swear,All-4-One,['All-4-One'],0.532,0.407,6,-9.658,0,0.235,0.0,0.117,0.23,83.207,259853,4
+6qspW4YKycviDFjHBOaqUY,Waterfalls,TLC,['TLC'],0.769,0.505,1,-7.345,1,0.311,7.49e-05,0.0777,0.757,171.804,279507,4
+1umFfZGw8bsBd1a0fLTQI3,"Show Me Heaven - From ""Days Of Thunder""",Maria McKee,['Maria McKee'],0.5,0.455,8,-10.483,1,0.136,0.00363,0.0646,0.563,155.935,229920,4
+4FCb4CUbFCMNRkI6lYc1zI,Hero,Mariah Carey,['Mariah Carey'],0.501,0.378,4,-9.37,1,0.735,0.0,0.119,0.178,119.987,257733,4
+4QlzkaRHtU8gAdwqjWmO8n,Friday I'm In Love,The Cure,['The Cure'],0.526,0.763,0,-12.663,0,0.00126,6.75e-05,0.359,0.514,136.205,215160,4
+1yTQ39my3MoNROlFw3RDNy,Say You'll Be There,Spice Girls,['Spice Girls'],0.726,0.679,1,-6.219,1,0.0149,1.49e-06,0.0837,0.751,107.02,235973,4
+035aFnfIrO25Hy4PRP6GC7,"All For Love - From ""The Three Musketeers""",Bryan Adams,"['Bryan Adams', 'Sting', 'Rod Stewart']",0.408,0.569,2,-6.237,1,0.19,0.0,0.126,0.146,74.835,283707,4
+27QvYgBk0CHOVHthWnkuWt,Vogue,Madonna,['Madonna'],0.737,0.88,6,-6.449,1,0.00379,0.00351,0.417,0.329,115.998,316813,4
+75CgD6l7K4qMzZrn4CbZqz,Stars,Simply Red,['Simply Red'],0.716,0.818,7,-7.456,1,0.154,0.000806,0.236,0.817,103.668,248600,4
+0Ph6L4l8dYUuXFmb71Ajnd,Livin' la Vida Loca,Ricky Martin,['Ricky Martin'],0.425,0.954,1,-3.756,0,0.00414,0.0,0.0555,0.933,178.043,243160,4
+6Qyc6fS4DsZjB2mRW9DsQs,Iris,The Goo Goo Dolls,['The Goo Goo Dolls'],0.315,0.715,11,-8.072,0,0.00125,7.97e-06,0.0942,0.497,155.925,289533,3
+1jI1aLmm5HTwiMtvsbwDJw,Who Do You Think You Are,Spice Girls,['Spice Girls'],0.727,0.83,6,-6.658,0,0.0226,0.00356,0.73,0.899,118.002,240707,4
+3GCpEbJzknVdpvx9WI03x3,Mysterious Girl - Radio Edit,Peter Andre,['Peter Andre'],0.655,0.822,8,-5.755,1,0.14,0.0,0.298,0.859,171.983,217107,4
+3Nf8oGn1okobzjDcFCvT6n,I'll Stand by You,Pretenders,"['Pretenders', 'Bob Clearmountain']",0.438,0.606,7,-6.549,1,0.3,4.49e-06,0.0754,0.266,133.822,240760,4
+7ojJ4XvqBhBcteM0zjMebT,(I Can't Help) Falling In Love With You,UB40,['UB40'],0.642,0.722,2,-13.031,1,0.0444,0.00388,0.122,0.836,172.406,207440,4
+69mFxANpGyq9s69LqH3d9G,I Love Your Smile,Shanice,['Shanice'],0.722,0.842,5,-8.745,0,0.00955,8.45e-06,0.178,0.751,93.954,257973,4
+7zB3ZhA5v33pA4rCdKKGqq,High,Lighthouse Family,['Lighthouse Family'],0.664,0.622,10,-8.505,1,0.0994,0.0738,0.112,0.614,102.342,310333,4
+4MIB4aXVS0M0KNVcbQlyOP,Say What You Want,Texas,['Texas'],0.633,0.841,4,-5.932,1,0.2,0.0,0.396,0.803,95.888,233867,4
+6YXWauQKn5nQVhcC4KVplQ,Crush,Jennifer Paige,['Jennifer Paige'],0.733,0.706,1,-5.652,0,0.0262,0.0,0.0881,0.598,115.04,199960,4
+7E81YAfHOaSlnevLjKMghT,Justified & Ancient,The KLF,['The KLF'],0.628,0.953,10,-4.989,0,0.00276,0.0132,0.427,0.515,111.134,228372,4

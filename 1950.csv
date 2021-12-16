@@ -1,0 +1,101 @@
+id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+5ueyLj6e6oVaTY0KQ6yLaA,All Shook Up,Elvis Presley,['Elvis Presley'],0.624,0.468,10,-12.162,1,0.881,6.35e-06,0.144,0.952,74.139,117080,4
+3aEJMh1cXKEjgh52claxQp,I've Got You Under My Skin - Remastered 1998,Frank Sinatra,['Frank Sinatra'],0.585,0.247,1,-12.612,1,0.452,8.85e-06,0.107,0.591,127.15,223760,4
+307XEC1IUwUs9ojlEFwH7f,Smoke Gets In Your Eyes,The Platters,['The Platters'],0.29,0.227,3,-13.06,1,0.944,7.95e-05,0.617,0.224,114.278,157293,4
+5yQ9iMZXGcr5rlO4hoLsP4,"What'd I Say, Pt. 1 & 2",Ray Charles,['Ray Charles'],0.54,0.681,4,-5.44,1,0.808,0.0,0.162,0.794,88.385,307053,4
+3vFVS2WYHDG4KkWCNecvpn,Dream A Little Dream Of Me,Ella Fitzgerald,"['Ella Fitzgerald', 'Louis Armstrong']",0.455,0.167,0,-13.613,1,0.918,0.0,0.173,0.404,76.118,185067,4
+50RwvvEKX5Q7AZt8FTAwIF,That'll Be The Day,Buddy Holly,['Buddy Holly'],0.536,0.637,2,-7.774,1,0.467,0.0,0.0838,0.798,115.24,150133,4
+06PdA0DLgF4BfAeUNZAbFG,Blueberry Hill,Fats Domino,['Fats Domino'],0.489,0.499,11,-9.702,1,0.74,0.000236,0.156,0.829,133.341,147880,3
+72nqbbrKjhXmDdRXQGq115,All I Have to Do Is Dream,The Everly Brothers,['The Everly Brothers'],0.542,0.347,4,-14.011,1,0.783,0.0,0.144,0.596,103.709,141240,4
+01u6AEzGbGbQyYVdxajxqk,Don't Be Cruel,Elvis Presley,['Elvis Presley'],0.697,0.55,2,-11.496,1,0.856,3.44e-05,0.0907,0.844,84.802,122893,4
+3E5ndyOfO6vFDEIE42HA8o,Mack the Knife,Bobby Darin,['Bobby Darin'],0.549,0.529,3,-12.291,0,0.76,0.0,0.206,0.464,82.755,184333,4
+3BUQFs6aFWh7EFNmI8bfL7,Johnny B. Goode,Chuck Berry,['Chuck Berry'],0.516,0.798,10,-9.049,1,0.738,0.000128,0.305,0.969,168.195,161560,4
+33aYzW5ToRjiFOzkubeJ8H,Rave On,Buddy Holly,['Buddy Holly'],0.566,0.711,0,-6.536,1,0.611,6.59e-06,0.417,0.961,159.629,109960,4
+11fNLqDB47gMKj7BHhR2Qr,Wake up Little Susie,The Everly Brothers,['The Everly Brothers'],0.709,0.62,2,-9.382,1,0.318,0.0,0.0426,0.936,93.723,123520,4
+79nJj5dMyTsUzKvN5jUXsJ,I Can't Stop Loving You,Ray Charles,['Ray Charles'],0.31,0.279,5,-13.552,1,0.815,0.0,0.318,0.377,79.397,256120,3
+3YmELj8vHY6mKIzphgtQlM,Great Balls Of Fire,Jerry Lee Lewis,['Jerry Lee Lewis'],0.468,0.527,7,-13.897,0,0.554,0.0,0.061,0.855,159.501,116467,4
+3x6wVKXfCm85Pw7gYo0rqq,That's Amore,Dean Martin,"['Dean Martin', 'Dick Stabile And His Orchestra']",0.407,0.17,10,-13.409,1,0.76,0.0,0.0737,0.577,124.047,188267,4
+4ZfQwNx3FlCN07cnUvekh3,Ain't That A Shame,Fats Domino,['Fats Domino'],0.486,0.501,4,-8.57,1,0.767,7.6e-05,0.0679,0.942,122.894,152200,4
+1ZWIQXfAquWtLDK5aOUczS,Summertime Blues,Eddie Cochran,['Eddie Cochran'],0.717,0.883,9,-8.686,0,0.125,0.167,0.176,0.942,156.299,119360,4
+3KzgdYUlqV6TOG7JCmx2Wg,Beyond the Sea,Bobby Darin,['Bobby Darin'],0.521,0.516,2,-7.456,0,0.723,0.0,0.257,0.569,136.483,172480,4
+14T8UhqU8EaJpp3tRxqJbr,Sea Of Love,Phil Phillips,['Phil Phillips'],0.289,0.353,7,-12.302,1,0.862,1.35e-06,0.172,0.312,85.436,144600,4
+2OARIMw1hpehr86Iwmv04c,Peggy Sue,Buddy Holly,['Buddy Holly'],0.676,0.424,9,-8.132,1,0.947,0.000494,0.119,0.493,148.373,150960,4
+1slMt4LizkO9dVcMZItJ1O,Jambalaya (On The Bayou),Fats Domino,['Fats Domino'],0.605,0.845,6,-8.672,0,0.819,0.000267,0.253,0.965,75.322,144067,4
+1j7HyD3cxyYw9bMFevxWyR,Bye Bye Love,The Everly Brothers,['The Everly Brothers'],0.558,0.556,9,-8.358,1,0.684,0.0,0.0869,0.905,169.259,144300,4
+4GAhAw0RCzNVP976NRMOqO,"Love Me Tender - From the 20th Century-Fox CinemaScope Production, ""Love Me Tender""",Elvis Presley,['Elvis Presley'],0.396,0.0373,9,-18.642,1,0.907,4.41e-05,0.111,0.302,103.051,161360,3
+6wO13Xb3EdHUNixFOEJ0KV,Whole Lot of Shakin' Going On,Jerry Lee Lewis,['Jerry Lee Lewis'],0.377,0.626,0,-9.662,1,0.832,6.46e-05,0.188,0.678,161.468,172400,4
+5wJXbK6be3OUwZHrqEuuaD,"Good Golly, Miss Molly",Little Richard,['Little Richard'],0.57,0.863,7,-10.82,1,0.581,0.00412,0.313,0.909,163.837,128640,4
+2FkCjtQ1lYsf71s2FAS8hE,The Great Pretender,The Platters,['The Platters'],0.425,0.401,7,-9.427,1,0.943,3.44e-06,0.072,0.531,115.71,160667,3
+7ljPNANyoIDc7sL0PWaJlu,True Love Ways,Buddy Holly,['Buddy Holly'],0.221,0.124,10,-19.545,1,0.8,0.103,0.316,0.276,82.727,168707,4
+1KLpjQFgubHI3GkAICCNH3,Dream Lover,Bobby Darin,['Bobby Darin'],0.526,0.774,5,-1.692,1,0.715,0.0,0.437,0.715,131.715,150706,4
+3mKdw0slI6wmnb1FBrvwn2,I Get A Kick Out Of You,Frank Sinatra,['Frank Sinatra'],0.395,0.375,5,-10.966,0,0.555,0.0,0.576,0.775,178.105,194093,4
+7DH5dXVuQaqcKf9oTy9oUN,He'll Have to Go,Jim Reeves,['Jim Reeves'],0.554,0.186,1,-15.846,1,0.909,0.00144,0.11,0.2,81.181,138640,3
+7t8Tzd9FqVz2asFMCL0HpZ,Tennessee Waltz,Patti Page,['Patti Page'],0.468,0.171,5,-10.905,1,0.957,3.74e-05,0.142,0.357,86.525,183573,3
+1vVY5vd4kowd70TdTuEjfV,(‘Til) I Kissed You,The Everly Brothers,['The Everly Brothers'],0.58,0.356,10,-12.894,0,0.338,0.0,0.335,0.7,140.647,147587,4
+39lnzOIUCSNaQmgBHoz7rt,Everyday,Buddy Holly,['Buddy Holly'],0.747,0.219,3,-12.562,1,0.584,2.57e-05,0.107,0.498,135.562,129120,4
+1oDCK7PW72XEZ1pE5rh87A,Smile,Nat King Cole,['Nat King Cole'],0.226,0.136,5,-19.203,0,0.862,8.07e-06,0.302,0.263,79.37,173267,5
+7qoaMWT3eRCKG1RN6dVuOY,Stagger Lee,Lloyd Price,['Lloyd Price'],0.439,0.638,3,-6.859,1,0.707,0.0,0.175,0.781,69.57,144627,4
+40KCF1U2DNceYsugxZQruU,Broken Hearted Melody,Sarah Vaughan,['Sarah Vaughan'],0.448,0.5,7,-11.304,1,0.744,0.0,0.191,0.768,132.443,143267,4
+5ayybTSXNwcarDtxQKqvWX,Poor Little Fool - Remastered,Ricky Nelson,['Ricky Nelson'],0.474,0.338,0,-11.528,1,0.648,0.0,0.13,0.81,154.596,153933,4
+7KGbqCYWaXdJxhsuilkcwF,It Doesn't Matter Anymore,Buddy Holly,['Buddy Holly'],0.665,0.179,7,-16.727,1,0.806,0.0,0.189,0.856,115.203,124000,4
+49vvBOlcnR3X4ArmnZMPL3,Roll Over Beethoven,Chuck Berry,['Chuck Berry'],0.713,0.793,3,-10.138,1,0.81,0.0,0.198,0.804,92.713,144600,4
+1tu5rCtK0jCLMeoWCYnttf,Twilight Time,The Platters,['The Platters'],0.408,0.366,9,-10.434,1,0.869,0.0,0.267,0.294,77.711,164400,4
+47gmoUrZV3w20JAnQOZMcO,Blue Suede Shoes,Elvis Presley,['Elvis Presley'],0.557,0.66,2,-7.706,1,0.654,1.66e-06,0.138,0.962,95.252,119200,4
+648TTtYB0bH0P8Hfy0FmkL,Unforgettable,Nat King Cole,['Nat King Cole'],0.349,0.182,5,-13.507,1,0.92,0.0152,0.143,0.178,136.094,191973,3
+7fPOOCejoBt3dIm6UcEdm8,You Send Me,Sam Cooke,['Sam Cooke'],0.538,0.226,4,-13.817,0,0.945,0.0,0.125,0.553,96.951,163560,4
+2iXcvnD3d1gfLBum0cE5Eg,Tutti Frutti,Little Richard,['Little Richard'],0.555,0.658,5,-3.866,1,0.793,0.0,0.118,0.937,184.835,144227,4
+07GtDOCxmye5KDWsTSACPk,Chantilly Lace,The Big Bopper,['The Big Bopper'],0.489,0.806,3,-6.054,1,0.841,2.96e-05,0.0687,0.944,172.269,145267,4
+7s7Zu78CztOUFUyQ4BijBQ,Oh Boy! - Overdubbed Version,Buddy Holly,['Buddy Holly'],0.543,0.619,9,-7.518,1,0.777,0.0,0.109,0.846,96.842,127680,4
+0SfreyN9i8MPgrtYS5PCjg,Maybe Baby,The Crickets,['The Crickets'],0.602,0.597,9,-7.73,1,0.714,0.0,0.0863,0.866,137.001,121133,4
+6xNwKNYZcvgV3XTIwsgNio,Heartbreak Hotel,Elvis Presley,['Elvis Presley'],0.696,0.21,4,-11.922,1,0.84,1.62e-06,0.107,0.717,93.543,127560,4
+6Em0JcoORXzv0BGfxAacpv,It's Only Make Believe - Single Version,Conway Twitty,['Conway Twitty'],0.542,0.531,11,-6.698,1,0.887,0.0011,0.127,0.344,126.018,132107,4
+4fHDlIntTsRGSyTg5UYZYC,Banana Boat (Day-O),Harry Belafonte,['Harry Belafonte'],0.797,0.105,1,-16.881,1,0.885,0.000116,0.108,0.419,122.545,183133,4
+1uRKT2LRANv4baowBWHfDS,(We're Gonna) Rock Around The Clock,Bill Haley & His Comets,['Bill Haley & His Comets'],0.811,0.859,9,-6.317,1,0.205,3.73e-06,0.0761,0.784,90.686,129893,4
+2bFZSvstZf6xX8h69F7Bvf,Maybellene,Chuck Berry,['Chuck Berry'],0.762,0.81,0,-10.395,1,0.811,0.0,0.139,0.735,117.48,141224,4
+7hxZF4jETnE5Q75rKQnMjE,I Walk the Line,Johnny Cash,['Johnny Cash'],0.713,0.258,9,-14.59,1,0.877,0.00606,0.0967,0.56,98.805,176533,4
+2WaYW84yWij5NSCpgSeU2R,You Make Me Feel So Young - Remastered 1998,Frank Sinatra,['Frank Sinatra'],0.577,0.306,9,-11.559,1,0.383,0.0,0.18,0.568,125.166,177400,4
+64Ny7djQ6rNJspquof2KoX,Hound Dog,Elvis Presley,['Elvis Presley'],0.494,0.756,0,-8.492,1,0.733,0.00505,0.76,0.949,86.895,136027,4
+5OkKOkdVTKFrYi6GWXkMzR,Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998,Dean Martin,['Dean Martin'],0.612,0.144,6,-12.204,0,0.88,0.0,0.203,0.343,128.629,181627,4
+0TMrV95mP7sDlvbE4iVfKP,Be-Bop-A-Lula,Gene Vincent & His Blue Caps,['Gene Vincent & His Blue Caps'],0.607,0.561,9,-10.099,1,0.421,0.0,0.298,0.841,127.638,157207,3
+49E8SDVZ7BUyNAZZYfZdRx,Lucille,Little Richard,['Little Richard'],0.682,0.839,6,-9.186,1,0.336,0.000571,0.17,0.953,145.051,142400,4
+2JoXjemDQe0fSmk26CpfrP,"Shake, Rattle And Roll - Single Version",Bill Haley & His Comets,['Bill Haley & His Comets'],0.671,0.679,5,-11.237,1,0.159,0.0,0.158,0.82,166.722,150467,4
+5vjigjfoXuJEttqLB3HTAg,Personality,Lloyd Price,['Lloyd Price'],0.591,0.454,5,-8.936,1,0.744,0.0,0.0989,0.865,128.909,157733,4
+3iskX6pzPZOyUNoVCQ7oMz,Baby (You've Got What It Takes),Dinah Washington,"['Dinah Washington', 'Brook Benton']",0.69,0.508,8,-9.92,1,0.851,0.000185,0.496,0.818,132.892,164400,4
+7ItZM6DMZE2m1X7yIaRxjq,C’Mon Everybody,Eddie Cochran,['Eddie Cochran'],0.627,0.7,3,-9.657,1,0.121,0.0111,0.188,0.856,175.33,118227,4
+1gU6T4sESXRt6RC2ufSqDf,Sweet Little Sixteen,Chuck Berry,['Chuck Berry'],0.549,0.521,0,-10.294,1,0.57,0.0,0.0996,0.939,166.072,190400,4
+3koJ1vDWEITIrfMlNaHIu3,Living Doll - 2003 Remaster,Cliff Richard & The Drifters,['Cliff Richard & The Drifters'],0.572,0.463,9,-7.782,1,0.527,0.0,0.0958,0.764,62.658,156787,4
+2xNDO4i0qxmkxYptUbxYpx,Blue Skies,Ella Fitzgerald,"['Ella Fitzgerald', 'Harry ""Sweets"" Edison']",0.464,0.391,0,-5.115,1,0.892,0.0,0.0521,0.649,158.894,226213,4
+14t8pLQkLLskPriG8bs96b,Walkin' After Midnight,Patsy Cline,['Patsy Cline'],0.562,0.194,0,-15.364,1,0.795,0.0,0.322,0.773,135.903,154027,3
+6sBPjgvLZzHHrpxbBDjmdE,Not Fade Away,Buddy Holly & The Crickets,['Buddy Holly & The Crickets'],0.799,0.475,9,-13.142,1,0.835,0.0,0.275,0.92,95.966,142773,4
+4M1wetsQ0kt4WjAsFRPSfE,Magic Moments,Perry Como,['Perry Como'],0.714,0.253,0,-15.16,0,0.922,4.91e-06,0.173,0.695,104.302,161855,4
+50meIWPMuhYgQSXfSsUvtI,"Goodnite, It's Time to Go (Goodnight Sweetheart, Goodnight)",The Spaniels,['The Spaniels'],0.375,0.318,9,-9.923,0,0.655,0.000198,0.422,0.358,76.638,160373,4
+6lYeYgSkWh6TZDQy6YZuvG,Just A Gigolo - Remastered,Louis Prima,['Louis Prima'],0.525,0.403,8,-11.987,1,0.597,0.0,0.0565,0.718,125.187,283200,4
+07TQDFaoLBwvo6JU1nnaiU,I'm Walkin',Fats Domino,['Fats Domino'],0.729,0.555,1,-13.056,1,0.678,0.184,0.155,0.979,109.005,135093,4
+3Ib94mN8YF3cXZo5x1FpQL,Somethin' Else,Eddie Cochran,['Eddie Cochran'],0.625,0.791,2,-10.428,1,0.198,0.000144,0.0645,0.967,157.413,125907,4
+4EaVZab0VnTWwWnO3HuEAp,Stupid Cupid,Connie Francis,['Connie Francis'],0.609,0.749,3,-6.147,1,0.831,1.45e-06,0.039,0.967,135.702,134211,4
+0VDUNaQP6tcM5ZzfcgNLmL,Rock And Roll Music,Chuck Berry,['Chuck Berry'],0.524,0.785,8,-6.118,1,0.44,0.00125,0.0565,0.914,165.799,151773,4
+3h4udS0WeWbsur3yfjvnm4,Reet Petite,Jackie Wilson,['Jackie Wilson'],0.664,0.66,5,-6.526,1,0.447,0.0,0.298,0.873,84.345,169240,4
+6XAcmxPbCfMzLBvjBd2G0H,Why Do Fools Fall In Love,Frankie Lymon & The Teenagers,['Frankie Lymon & The Teenagers'],0.43,0.558,1,-6.549,1,0.534,0.000507,0.0914,0.779,172.756,140827,4
+4gphxUgq0JSFv2BCLhNDiE,Jailhouse Rock,Elvis Presley,['Elvis Presley'],0.647,0.582,10,-9.538,0,0.41,1.93e-06,0.0715,0.915,167.396,146480,4
+0DXm5n7SBxCED9ssTvrx2J,Buona Sera - Remastered,Louis Prima,['Louis Prima'],0.547,0.3,3,-13.973,1,0.777,0.0,0.0653,0.811,97.793,187200,4
+3P6OwCX7Ofiaaqtvujb6i5,Sixteen Tons,Tennessee Ernie Ford,['Tennessee Ernie Ford'],0.693,0.324,11,-15.085,1,0.796,0.0,0.246,0.382,144.14,158307,4
+3ZR0us36Z8kgBXFMYkhugR,Summertime,Louis Armstrong,"['Louis Armstrong', 'Ella Fitzgerald']",0.2,0.11,6,-16.646,0,0.906,0.000153,0.0959,0.162,171.751,299067,5
+65DHarvIY5nZ57ZcgTxx75,It's All In The Game,Tommy Edwards,['Tommy Edwards'],0.546,0.167,3,-16.085,1,0.845,0.0181,0.127,0.628,70.564,158053,4
+4vDEkER6ToECKrxiPzE2Tp,Move It - 2002 Remaster,Cliff Richard & The Drifters,['Cliff Richard & The Drifters'],0.625,0.852,4,-4.83,1,0.692,0.000487,0.293,0.931,82.142,141813,4
+1s4hyUFWmLWiAamsclb4xA,"See You Later, Alligator",Bill Haley & His Comets,['Bill Haley & His Comets'],0.664,0.702,10,-11.841,0,0.313,2.06e-06,0.369,0.737,156.987,165360,4
+1pZn8AX1WulW8IO338hE5D,Blue Moon,Billie Holiday,['Billie Holiday'],0.639,0.269,8,-11.435,1,0.982,0.12,0.141,0.539,124.866,207827,4
+1eqGYJJr2z2GXK1i0hD3BC,Love Letters In The Sand - Single Version,Pat Boone,['Pat Boone'],0.571,0.196,3,-13.216,1,0.811,0.0,0.142,0.555,88.728,134560,4
+5tHFPtV7dT01fxDe2AhKjD,Rip It Up,Little Richard,['Little Richard'],0.895,0.636,5,-6.043,1,0.672,3.31e-06,0.0207,0.967,95.922,141400,4
+4nAJtcmiyoL0ARY5WZY9IN,Rebel Rouser,Duane Eddy,['Duane Eddy'],0.388,0.434,7,-11.997,1,0.789,0.954,0.728,0.873,206.313,153533,4
+5hznMxKe11iqwcW8BFlNWZ,"The Theme From ""A Summer Place""",Percy Faith,['Percy Faith'],0.311,0.455,0,-10.15,1,0.27,0.919,0.47,0.845,186.162,142333,3
+6pPr1KLZit9FgFNhp7xE5m,Cheek To Cheek,Ella Fitzgerald,"['Ella Fitzgerald', 'Louis Armstrong']",0.648,0.306,0,-13.395,1,0.588,0.0,0.252,0.661,122.027,351893,4
+2KJOfVTxWkbtRMGByeEQ7V,Jambalaya (On The Bayou),Hank Williams,"['Hank Williams', 'Drifting Cowboys']",0.526,0.291,7,-10.694,1,0.706,0.0,0.0651,0.886,164.02,172133,4
+603N4XGJUTbK760GLCvIIs,Come Softly To Me,The Fleetwoods,['The Fleetwoods'],0.601,0.095,1,-18.478,1,0.93,0.000285,0.116,0.672,122.975,144933,4
+77FRvC6JRthZBYDiMJeAFg,Wild One,Jerry Lee Lewis,['Jerry Lee Lewis'],0.67,0.878,0,-12.43,1,0.745,0.000602,0.326,0.973,97.598,114320,4
+7EM1CeaWPjCdVY1vO0KiO4,Red River Rock,Johnny & The Hurricanes,['Johnny & The Hurricanes'],0.371,0.813,0,-11.397,1,0.0946,0.919,0.272,0.822,153.963,128012,4
+6wcKmXUzB6SExvGbleZkeI,At The Hop,Danny & The Juniors,['Danny & The Juniors'],0.405,0.864,8,-7.642,1,0.662,2.12e-05,0.18,0.888,194.875,149973,4
+63NmQTtxQLHSRp7li6aAmP,Chances Are - Single Version,Johnny Mathis,['Johnny Mathis'],0.31,0.254,10,-12.2,1,0.897,3.25e-06,0.107,0.296,77.512,181400,1
+507IFqPuG8mBQoKebfGG9t,Long Tall Sally (The Thing),Little Richard,['Little Richard'],0.474,0.608,5,-5.139,1,0.755,0.0,0.0928,0.888,184.694,127427,4
+2aEeghgUcnu75tzcolFMfs,La Bamba - Single Version,Ritchie Valens,['Ritchie Valens'],0.516,0.809,0,-6.419,1,0.787,0.000331,0.303,0.939,75.099,126960,4
+2k6qpHJsrKCCyvsHv2cPqR,Diana,Paul Anka,['Paul Anka'],0.551,0.576,7,-8.49,1,0.762,0.0,0.803,0.919,142.814,140520,4
+6TYR3IVgIwDK6ydc2EPEQq,Lonely Teardrops,Jackie Wilson,['Jackie Wilson'],0.524,0.478,7,-8.894,1,0.406,0.0,0.74,0.843,137.133,166213,4
